@@ -1,4 +1,4 @@
-esta es la historia de Leonardo Reyes
+git log historia.txtesta es la historia de Leonardo Reyes
 
 Leonardo Reyes tiene 45 años y nacio en nicaragua
 y se quiere ir
