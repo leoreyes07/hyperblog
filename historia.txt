@@ -3,6 +3,6 @@ git log historia.txtesta es la historia de Leonardo Reyes
 Leonardo Reyes tiene 45 años y nacio en nicaragua
 y se quiere ir
 
-hoy hablaremos de su historia
+hoy hablaremos de su vida
 
 aunque cree que esta cuerdo, realmente esta loco y vive creyendo que perdio su lugar en la simulacion
