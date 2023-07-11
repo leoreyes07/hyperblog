@@ -2,6 +2,8 @@ esta es la historia de Leonardo Reyes
 
 Leonardo Reyes tiene 44 años y nacio en nicaragua
 
+
+
 estoy uniendo con mi ususario BolRey01 
 
 es eso suficiente para el commit
